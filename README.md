@@ -10,5 +10,14 @@
 - Extension 설치
 
 ## 3주차
--Python 로그 출력 
--Python 머신러닝 
+- Python 로그 출력 
+- Python 머신러닝 
+
+## 4주차
+- DataFlame 만들기
+- 모델 학습과 예측 실습
+
+## 5주차
+- 모델 정확도 확인
+- 반복문을 활용한 Dictionary 실습
+- Pandas DataFlame 활용하여 날씨를 예측 
